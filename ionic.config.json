@@ -1,0 +1,7 @@
+{
+  "name": "task-scheduler-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
